@@ -13,7 +13,7 @@ mongoose
       useFindAndModify: false,
     }
   )
-  .then(() => console.log("mongodb connected"))
+  .then(() => console.log("mongoDB connected!!!!"))
   .catch((err) => console.log(err));
 
 app.get("/", (req, res) => {
