@@ -33,11 +33,3 @@
     ![image](https://user-images.githubusercontent.com/39754252/98696254-e781de00-23b6-11eb-8ea2-c8cafad99f68.png)
    
 3. 로그아웃
-
-# 제작중 느낀 개선점
-
-1. Redux 사용경험을 많이 쌓아야한다
-2. Back-end 개발의 어려움이 많다
-   -> DB 와 auth 기능을 자료를 참고하지않으면 혼자서 절대못한다..
-3. commit 메세지 ..
-4. readme ..
